@@ -1,0 +1,94 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Key2Act Login Scenario",
+        "description": "",
+        "id": "key2act-login-feature;key2act-login-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12079312500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is already on LoginPage",
+            "match": {
+              "location": "LoginStepDefination.user_already_on_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5147400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "title of login page is BoB",
+            "match": {
+              "location": "LoginStepDefination.title_of_login_page_is_BoB()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 223562000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User enters username and password",
+            "match": {
+              "location": "LoginStepDefination.user_enters_username_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 59960500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user  clicks on login button",
+            "match": {
+              "location": "LoginStepDefination.user_clicks_on_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3601100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User is on My Account",
+            "match": {
+              "location": "LoginStepDefination.user_is_on_My_Account()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 594338100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User log out",
+            "match": {
+              "location": "LoginStepDefination.user_log_out()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Key2Act Login Feature",
+    "description": "",
+    "id": "key2act-login-feature",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  }
+]
