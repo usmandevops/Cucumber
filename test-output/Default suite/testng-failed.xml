@@ -5,7 +5,7 @@
     <classes>
       <class name="com.Runner1.TestRunner">
         <methods>
-          <include name="feature" invocation-numbers="0"/>
+          <include name="feature"/>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
         </methods>

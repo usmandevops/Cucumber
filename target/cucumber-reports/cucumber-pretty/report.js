@@ -1,4 +1,4 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("login.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("C:/Users/UKarim/eclipse-workspace/K2ACucumber/src/main/java/Features/login.feature");
 formatter.feature({
   "line": 1,
   "name": "Key2Act Login Feature",
@@ -48,42 +48,42 @@ formatter.match({
   "location": "LoginStepDefination.user_already_on_login_page()"
 });
 formatter.result({
-  "duration": 12079312500,
+  "duration": 12043255100,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.title_of_login_page_is_BoB()"
 });
 formatter.result({
-  "duration": 5147400,
+  "duration": 5282200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_enters_username_and_password()"
 });
 formatter.result({
-  "duration": 223562000,
+  "duration": 381272400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 59960500,
+  "duration": 89887800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_is_on_My_Account()"
 });
 formatter.result({
-  "duration": 3601100,
+  "duration": 3254500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_log_out()"
 });
 formatter.result({
-  "duration": 594338100,
+  "duration": 608426700,
   "status": "passed"
 });
 });

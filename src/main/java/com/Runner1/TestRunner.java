@@ -10,7 +10,7 @@ import cucumber.api.testng.CucumberFeatureWrapper;
 import cucumber.api.testng.TestNGCucumberRunner;
 
 @CucumberOptions(
-		features = "C:\\Users\\UKarim\\OneDrive - Key2Act\\K2ACucumber\\src\\main\\java\\Features",
+		features = "C:\\Users\\UKarim\\eclipse-workspace\\K2ACucumber\\src\\main\\java\\Features\\login.feature",
         glue = {"stepDefination"},
         tags = {"~@Ignore"},
         format = {

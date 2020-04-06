@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 12079312500,
+              "duration": 12043255100,
               "status": "passed"
             },
             "line": 5,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 5147400,
+              "duration": 5282200,
               "status": "passed"
             },
             "line": 6,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 223562000,
+              "duration": 381272400,
               "status": "passed"
             },
             "line": 7,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 59960500,
+              "duration": 89887800,
               "status": "passed"
             },
             "line": 8,
@@ -60,7 +60,7 @@
           },
           {
             "result": {
-              "duration": 3601100,
+              "duration": 3254500,
               "status": "passed"
             },
             "line": 9,
@@ -72,7 +72,7 @@
           },
           {
             "result": {
-              "duration": 594338100,
+              "duration": 608426700,
               "status": "passed"
             },
             "line": 10,
@@ -89,6 +89,6 @@
     "description": "",
     "id": "key2act-login-feature",
     "keyword": "Feature",
-    "uri": "login.feature"
+    "uri": "C:/Users/UKarim/eclipse-workspace/K2ACucumber/src/main/java/Features/login.feature"
   }
 ]
