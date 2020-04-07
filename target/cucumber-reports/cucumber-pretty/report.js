@@ -48,42 +48,42 @@ formatter.match({
   "location": "LoginStepDefination.user_already_on_login_page()"
 });
 formatter.result({
-  "duration": 12043255100,
+  "duration": 12375508500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.title_of_login_page_is_BoB()"
 });
 formatter.result({
-  "duration": 5282200,
+  "duration": 5934200,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_enters_username_and_password()"
 });
 formatter.result({
-  "duration": 381272400,
+  "duration": 296622900,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_clicks_on_login_button()"
 });
 formatter.result({
-  "duration": 89887800,
+  "duration": 56111500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_is_on_My_Account()"
 });
 formatter.result({
-  "duration": 3254500,
+  "duration": 2751000,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefination.user_log_out()"
 });
 formatter.result({
-  "duration": 608426700,
+  "duration": 606755600,
   "status": "passed"
 });
 });
